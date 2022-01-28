@@ -10,6 +10,7 @@ Welcome to CMSC330 Spring 2022, section 0109! Here I will try my best to curate 
 
 **Unofficial Office Hours:** Use it to discuss concepts, projects, quizzes, exam **WITHIN THE BOUNDS OF ACADEMIC INTEGRITY** (restrictions including but not limited to: do not give away solutions, do not discuss quizzes/exams before everyone has taken it, etc), and more importantly socialize. I am also in the group, which means if you need any help, just tag me :).
 
-**Section GroupMe:** ![Join QR Code](./groupme.png)
+**Section GroupMe:** 
+![Join QR Code](./groupme.png)
 
 
